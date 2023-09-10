@@ -1,0 +1,59 @@
+header{
+    background-image: url(img/benjamin-voros-phIFdC6lA4E-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+.container{
+    margin: auto;
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    
+}
+.second{
+    text-align: center;
+    text-transform: uppercase;
+    font-size:medium;
+    color: white;
+    padding: 50px 0 0 0;
+   
+}
+.third{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 100px;
+    color: white;
+    margin: -22px 0 86px 0;
+
+
+}
+.fourth
+{
+    text-align: center;
+    text-transform: uppercase;
+    font-size:medium;
+    color: white;
+    margin: -86px 0 6px 0;
+
+}
+.but{
+    text-align: center;
+ 
+   
+}
+button{
+  
+    padding: 5px 20px 5px 20px;
+    text-transform: capitalize;
+    background-color:olivedrab;
+}
+button:hover{
+    background-color: white;
+}
+.button2{
+    margin: 27% 0 0 90%;
+}
